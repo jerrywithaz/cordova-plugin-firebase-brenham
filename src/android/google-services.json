@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "160353246699",
+    "firebase_url": "https://brenham-isd.firebaseio.com",
+    "project_id": "brenham-isd",
+    "storage_bucket": "brenham-isd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160353246699:android:967ce5c0682a9fc9",
+        "android_client_info": {
+          "package_name": "com.eztask.brenham.isd.tx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160353246699-v5tjjeppqbjlrdkehj9paq9ulhajvgmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ehm0fi5goHFLgEc7RgxbGB0A6WIYSF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
