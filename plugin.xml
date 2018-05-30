@@ -21,7 +21,7 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 			</feature>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_app_id">160353246699</string>
+			<string name="google_app_id">1:160353246699:android:967ce5c0682a9fc9</string>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
 			<string name="google_api_key">AIzaSyCE8x2dsvdOyzsXemfkZFXK8ogiMfwmBi0</string>
